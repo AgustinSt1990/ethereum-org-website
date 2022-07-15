@@ -5,7 +5,7 @@ lang: es
 sidebar: true
 ---
 
-Esta documentación está diseñada para ayudarte a construir con Ethereum. Cubre Ethereum como un concepto, explica la pila de tecnología de Ethereum, y documenta temas avanzados para aplicaciones y casos de uso más complejos.
+Esta documentación está diseñada para ayudarte a construir con Ethereum. Cubre Ethereum como un concepto, explica la composición de elementos tecnológicos de Ethereum, y documenta temas avanzados para aplicaciones y casos de uso más complejos.
 
 Este es un esfuerzo comunitario de código abierto, así que siéntete libre de sugerir nuevos temas, agregue nuevo contenido y proporcione ejemplos dondequiera que crea que puede ser útil. Toda la documentación puede editarse a través de GitHub - si no esta seguro/a de cómo hacerlo, [siga estas instrucciones](https://github.com/ethereum/ethereum-org-website/tree/dev/docs/editing-markdown.md).
 
